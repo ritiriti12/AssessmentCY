@@ -1,6 +1,6 @@
 # How to execute cypress tests
 
-Open your terminal or command prompt.
+# Open your terminal or command prompt.
 Navigate to project using this command "cd CypressAutomation"
 Run the following command and follow the prompts to create a package.json file "npm init -y"
 Run the following command to install Cypress "npm install cypress --save-dev"
